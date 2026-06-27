@@ -12,3 +12,31 @@ O que você aprende no laboratório dificilmente dá para recuperar estudando so
 
 Resumo:
 Tenha um lugar para anotar os prazos, separe um tempo na semana para não acumular matéria e entenda que o ritmo é corrido, mas dá para levar numa boa com o mínimo de organização, boa sorte!
+
+
+ Capítulo 2 – Organização dos Arquivos e Uso do Pendrive
+
+Uma das primeiras recomendações para quem está iniciando o curso é adquirir um pendrive o quanto antes. Durante as aulas, diversos arquivos serão utilizados, como atividades, exercícios, projetos, documentos e apresentações. Ter um pendrive permite salvar todo o material produzido e levá-lo para qualquer computador, seja na escola, em casa ou em outro local de estudo.
+
+Além dos arquivos criados em sala, é importante salvar os slides disponibilizados pelos professores. Eles costumam conter resumos, exemplos e explicações que ajudam bastante na revisão do conteúdo antes de provas, trabalhos e avaliações.
+
+O pendrive não é útil apenas para as disciplinas técnicas. Ele também pode ser utilizado para armazenar materiais de outras matérias, como Matemática, Português, Inglês, História, entre outras. Manter todos os arquivos em um único lugar facilita o acesso e evita que conteúdos importantes sejam perdidos.
+
+ Como organizar o pendrive
+
+A organização faz toda a diferença ao longo do curso. Em vez de salvar todos os arquivos na mesma pasta, crie uma estrutura que facilite a localização dos materiais.
+
+Uma sugestão é criar uma pasta para cada disciplina e, dentro dela, separar os arquivos por bimestre.
+ Dessa forma, quando precisar revisar um conteúdo ou encontrar uma atividade antiga, será muito mais fácil localizar o arquivo correto.
+
+ Cuidados importantes
+
+O pendrive é um dispositivo de armazenamento e, como qualquer outro, precisa ser utilizado com cuidado. Antes de removê-lo do computador, utilize sempre a opção **"Ejetar"** ou **"Remover hardware com segurança"** disponível no sistema operacional.
+
+Retirar o pendrive enquanto arquivos ainda estão sendo gravados pode causar corrupção dos dados. Isso significa que documentos importantes podem ficar inacessíveis ou até serem perdidos definitivamente.
+
+Por isso, sempre confira se a cópia dos arquivos foi concluída e ejete o dispositivo corretamente antes de desconectá-lo. Esse pequeno hábito ajuda a preservar seus materiais e evita a perda de trabalhos, atividades e projetos desenvolvidos durante o curso.
+
+ Dica final
+
+Reserve alguns minutos ao final de cada aula para organizar os arquivos no pendrive. Renomeie documentos com nomes claros, mova-os para a pasta correspondente e mantenha tudo atualizado. Essa organização simples economiza tempo, facilita os estudos e torna muito mais tranquilo encontrar qualquer material quando ele for necessário.
