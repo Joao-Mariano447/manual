@@ -40,3 +40,39 @@ Por isso, sempre confira se a cópia dos arquivos foi concluída e ejete o dispo
  Dica final
 
 Reserve alguns minutos ao final de cada aula para organizar os arquivos no pendrive. Renomeie documentos com nomes claros, mova-os para a pasta correspondente e mantenha tudo atualizado. Essa organização simples economiza tempo, facilita os estudos e torna muito mais tranquilo encontrar qualquer material quando ele for necessário.
+
+Capítulo 3 – Trabalhos em Equipe: Como Colaborar sem Dor de Cabeça
+
+Durante o curso de Desenvolvimento de Sistemas, você perceberá que muitos trabalhos serão feitos em grupo. Isso acontece porque, na área de tecnologia, é muito comum desenvolver projetos em equipe. Saber trabalhar com outras pessoas é uma habilidade tão importante quanto aprender a programar.
+
+Divida as tarefas desde o início
+
+Um erro bastante comum é reunir o grupo apenas perto da data de entrega. Quando isso acontece, alguns integrantes acabam fazendo quase todo o trabalho enquanto outros ficam perdidos.
+
+Assim que o professor passar o projeto, conversem e definam quem ficará responsável por cada parte. Por exemplo, uma pessoa pode criar o layout, outra desenvolver o código, outra fazer a documentação e outra revisar o trabalho antes da entrega.
+
+Quando cada integrante sabe exatamente o que precisa fazer, o projeto fica muito mais organizado.
+
+Mantenha a comunicação do grupo
+
+Criem um grupo no WhatsApp, Discord ou outra plataforma de mensagens para compartilhar informações importantes. Avisem quando uma tarefa estiver concluída, tirem dúvidas e informem caso apareça algum problema.
+
+Evite desaparecer durante o desenvolvimento do trabalho. Se você não conseguir fazer sua parte no prazo combinado, avise o grupo com antecedência para que todos possam se reorganizar.
+
+Compartilhe os arquivos corretamente
+
+Em vez de enviar várias versões diferentes do mesmo arquivo, procure utilizar ferramentas como Google Drive, OneDrive ou GitHub (quando o professor ensinar). Assim, todos conseguem acessar os arquivos atualizados e o risco de perder informações é muito menor.
+
+Também é importante dar nomes claros aos arquivos, como Projeto_Bimestre2_VersaoFinal, evitando nomes como novo, teste2 ou final_agora_sim, que podem causar confusão.
+
+Respeite os horários e prazos
+
+Nem todos os colegas têm a mesma rotina. Alguns trabalham, outros fazem cursos ou possuem outras responsabilidades. Por isso, combinem datas para concluir cada etapa do projeto antes da entrega final.
+
+Se cada integrante cumprir sua parte no prazo combinado, ninguém precisará fazer tudo de última hora.
+
+Dica final
+
+Trabalhar em equipe significa colaborar. Ouça as opiniões dos colegas, ajude quando alguém tiver dificuldade e aceite sugestões para melhorar o projeto. Um grupo organizado, que se comunica bem e divide as tarefas de forma justa, consegue desenvolver trabalhos com mais qualidade e muito menos estresse.
+
+Resumo: Divida as tarefas logo no início, mantenha uma boa comunicação, compartilhe os arquivos corretamente e cumpra os prazos combinados. Essas atitudes tornam os trabalhos em grupo muito mais tranquilos e ajudam a desenvolver uma habilidade que será útil durante o curso e também na carreira profissional.
